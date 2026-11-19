@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Momo-tech
-- 👀 I am a motivated junior fullstack dev. 
+- 👀 I am a motivated fullstack dev. 
 - looking for great new webapp apps to make the world a better place
 
 <!---
